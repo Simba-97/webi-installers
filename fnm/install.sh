@@ -7,9 +7,9 @@ function __init_fnm() {
     set -e
     set -u
 
-    ##################
+    ################
     # Install fnm #
-    ##################
+    ################
 
     # Every package should define these 6 variables
     pkg_cmd_name="fnm"
